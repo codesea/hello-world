@@ -1,8 +1,4 @@
 # hello-world
-learn to use github
-
-some nonsense text to test branch
-
-more changes
-
-added by branch first
+Systematic learning of Git
+Including advanced use
+To gain work efficiency
